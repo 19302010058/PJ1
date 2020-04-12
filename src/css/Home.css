@@ -1,0 +1,52 @@
+#img1{
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    margin-top: 8.3333vh;
+}
+figure{
+    display: inline-block;
+    width: 11.9792vw;/*200*/
+    border-style: solid;
+    border-width: 1px;/*1*/
+    border-color: #7e8c8d;
+    background-color: #7e8c8d;
+    border-radius: 0.5em;
+    margin-left:6.2865vw/*88.5*/;
+    margin-right: 6.2865vw;
+}
+figcaption{
+    text-align: center;
+    margin-top: 0.9259vh;/*10*/
+    margin-bottom: 0.9259vh;
+    font-family: "Andale Mono", serif;
+}
+img{
+    width: 7.8125vw;
+    height: 13.8889vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.9259vh;
+    margin-bottom: 0.9259vh;
+    border-style: solid;
+    border-color: #7e8c8d ;
+    border-width: 1px;
+    border-radius: 0.5em;
+}
+.p1{
+    margin-bottom: 0.9259vh;
+    margin-left: 0.2604vw;/*5*/
+    margin-right: 0.2604vw;
+    text-align: center;
+}
+.imgDiv{
+    margin-top: 2.7778vh;/*20*/
+    margin-bottom: 2.7778vh;
+}
+#div-h-1{
+    position:fixed;right:10px;bottom:5%
+}
+.div-H-2{
+    margin-top: 10px;
+}
